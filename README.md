@@ -21,13 +21,12 @@
 
 **Bases de datos libres**
 
+* * OASIS: http://www.oasis-brains.org
+* Child Mind Institute: http://fcon_1000.projects.nitrc.org
 * Neurovault: https://neurovault.org
 * OpenfMRI: https://openfmri.org
 * Un ejemplo de HCP: https://www.humanconnectome.org/study/hcp-young-adult/data-releases
-* http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html
 * ADNI: http://adni.loni.usc.edu
-* OASIS: http://www.oasis-brains.org
-* Child Mind Institute: http://fcon_1000.projects.nitrc.org
 
 # Sobre fMRI
 
