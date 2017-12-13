@@ -77,6 +77,7 @@
     * Principles of fMRI 2: https://www.coursera.org/learn/functional-mri-2
 
 * Blog con tutoriales de fMRI: http://andysbrainblog.blogspot.mx; http://www.fmri4newbies.com/tutorials/
+* Resources for data driven neuroscientists: https://pbeukema.github.io/LabHacks/
 
 **Libros**
 
