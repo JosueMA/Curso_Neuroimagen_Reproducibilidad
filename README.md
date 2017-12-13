@@ -23,6 +23,8 @@
 * Jupyter: http://jupyter.org
 * Docker: https://www.docker.com
 * Github: https://github.com/topics/neuroscience
+* Open Science Framework: https://osf.io
+* ClinicalTrials: https://clinicaltrials.gov
 
 
 **Bases de datos libres**
