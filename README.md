@@ -69,12 +69,18 @@
 
 *¿Cómo puedo seguir aprendiendo acerca de neuroimagen?*
 
+* IMAIOS: https://www.imaios.com/en/e-Courses/e-MRI
+* Neuroimaging Tutorials: https://talks.stanford.edu/tutorials/neuroimaging-tutorials/
+* Nipy: http://nipy.org/nipy/users/tutorial.html
+* Neuroimaging Analysis within R: http://johnmuschelli.com/imaging_in_r/
+* Introduction to Neurohacking In R: https://www.coursera.org/learn/neurohacking
+
 * Dos excelentes cursos en línea (gratuitos), enfocado en las bases y los avances recientes en el campo de fMRI (principalmente conceptual):
 
     * Principles of fMRI 1: https://www.coursera.org/learn/functional-mri
     * Principles of fMRI 2: https://www.coursera.org/learn/functional-mri-2
 
-* Blog con tutoriales de fMRI: http://andysbrainblog.blogspot.mx
+* Blog con tutoriales de fMRI: http://andysbrainblog.blogspot.mx; http://www.fmri4newbies.com/tutorials/
 
 **Libros**
 
@@ -89,7 +95,7 @@
 
 *Neuroimagen y psiquiatría*
 
-* * The Challenges and Promise of Neuroimaging in Psychiatry
+* The Challenges and Promise of Neuroimaging in Psychiatry
 http://www.cell.com/neuron/pdf/S0896-6273(11)01095-6.pdf
 
 * Computational psychiatry as a bridge from neuroscience to clinical applications. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443409/pdf/nihms869778.pdf
