@@ -15,9 +15,10 @@
 
 **Herramientas**
 * p-hacker: http://shinyapps.org/apps/p-hacker/
-* NueroPowerTools: http://neuropowertools.org
+* NeuroPowerTools: http://neuropowertools.org
 * BIDS: http://bids.neuroimaging.io
 * Neurosynth: http://neurosynth.org
+* Nipype: http://nipype.readthedocs.io/en/latest/
 
 **Bases de datos libres**
 
