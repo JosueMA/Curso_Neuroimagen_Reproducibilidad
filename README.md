@@ -3,6 +3,7 @@
 **Lecturas importantes**
 
 * *Why Most Published Research Findings Are False:* http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf
+* *1,500 scientists lift the lid on reproducibility:* https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
 * *Power failure: why small sample size undermines the reliability of neuroscience:* https://www.nature.com/articles/nrn3475
 * *A manifiesto for reproducible science:* https://www.nature.com/articles/s41562-016-0021.pdf
 * *Scanning the Horizon: Towards transparent and reproducible neuroimaging research:* https://www.biorxiv.org/content/biorxiv/early/2016/10/25/059188.full.pdf
@@ -19,6 +20,10 @@
 * BIDS: http://bids.neuroimaging.io
 * Neurosynth: http://neurosynth.org
 * Nipype: http://nipype.readthedocs.io/en/latest/
+* Jupyter: http://jupyter.org
+* Docker: https://www.docker.com
+* Github: https://github.com/topics/neuroscience
+
 
 **Bases de datos libres**
 
