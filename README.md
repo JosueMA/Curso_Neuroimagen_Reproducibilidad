@@ -23,10 +23,13 @@
 
 * OASIS: http://www.oasis-brains.org
 * Child Mind Institute: http://fcon_1000.projects.nitrc.org
+* NKI: http://fcon_1000.projects.nitrc.org/indi/pro/nki.html
+* ABIDE: http://fcon_1000.projects.nitrc.org/indi/abide/
 * Neurovault: https://neurovault.org
 * OpenfMRI: https://openfmri.org
 * Un ejemplo de HCP: https://www.humanconnectome.org/study/hcp-young-adult/data-releases
 * ADNI: http://adni.loni.usc.edu
+
 
 # Sobre fMRI
 
