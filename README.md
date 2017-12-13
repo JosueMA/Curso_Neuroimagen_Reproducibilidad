@@ -1,6 +1,6 @@
 # Sobre Reproducibilidad
 
-**Lecturas clave**
+**Lecturas importantes**
 
 * *Why Most Published Research Findings Are False:* http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf
 * *Power failure: why small sample size undermines the reliability of neuroscience:* https://www.nature.com/articles/nrn3475
@@ -8,7 +8,26 @@
 * *Scanning the Horizon: Towards transparent and reproducible neuroimaging research:* https://www.biorxiv.org/content/biorxiv/early/2016/10/25/059188.full.pdf
 * *Best Practices in Data Analysis and Sharing in Neuroimaging using MRI:* http://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf
 
+**Sitios de interés**
+
+* Center for reproducible neuroscience: http://reproducibility.stanford.edu
+* Human Connectome Project: https://www.humanconnectome.org
+
 **Herramientas**
+* p-hacker: http://shinyapps.org/apps/p-hacker/
+* NueroPowerTools: http://neuropowertools.org
+* BIDS: http://bids.neuroimaging.io
+* Neurosynth: http://neurosynth.org
+
+**Bases de datos libres**
+
+* Neurovault: https://neurovault.org
+* OpenfMRI: https://openfmri.org
+* Un ejemplo de HCP: https://www.humanconnectome.org/study/hcp-young-adult/data-releases
+* http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html
+* ADNI: http://adni.loni.usc.edu
+* OASIS: http://www.oasis-brains.org
+* Child Mind Institute: http://fcon_1000.projects.nitrc.org
 
 # Sobre fMRI
 
