@@ -41,25 +41,53 @@
 
 # Sobre fMRI
 
+**Programación**
+
+* Bash:
+    * https://www.datacamp.com/courses/introduction-to-shell-for-data-science
+    * https://www.codecademy.com/learn/learn-the-command-line
+ 
+ * MATLAB:
+    * https://www.coursera.org/learn/matlab
+ 
+ * Python:
+    * https://www.datacamp.com/courses/intro-to-python-for-data-science
+    
+ * R:
+    * https://www.datacamp.com/courses/free-introduction-to-r
+
 **Sitios de interés**
 
-BIDS: http://bids.neuroimaging.io
-
-**Recursos:**
 
 
-¿Cómo puedo seguir aprendiendo acerca de neuroimagen?
+### Recursos:
 
-Dos excelentes cursos en línea (gratuitos), enfocado en las bases y los avances en el campo de fMRI (principalmente conceptual).
+* Python y Neuroimagen: http://nipy.org
+* Python y paradigmas experimentales: http://www.psychopy.org
+* Máquina virtual con todo lo esencial para fMRI: http://neuro.debian.net
 
-Principles of fMRI 1: https://www.coursera.org/learn/functional-mri
+*¿Cómo puedo seguir aprendiendo acerca de neuroimagen?*
 
-Principles of fMRI 2: https://www.coursera.org/learn/functional-mri-2
+* Dos excelentes cursos en línea (gratuitos), enfocado en las bases y los avances recientes en el campo de fMRI (principalmente conceptual):
 
-Blog con tutoriales de fMRI: http://andysbrainblog.blogspot.mx
-https://practicalfmri.blogspot.mx
+    * Principles of fMRI 1: https://www.coursera.org/learn/functional-mri
+    * Principles of fMRI 2: https://www.coursera.org/learn/functional-mri-2
+
+* Blog con tutoriales de fMRI: http://andysbrainblog.blogspot.mx
+
+**Libros**
+
+* Functional Magnetic Resonance Imaging: http://sites.sinauer.com/fmri3e/
+* Handbook of Functional MRI Data Analysis: http://www.fmri-data-analysis.org
+* Handbook of Neuroimaging Data Analysis: https://www.crcpress.com/Handbook-of-Neuroimaging-Data-Analysis/Ombao-Lindquist-Thompson-Aston/p/book/9781482220971
 
 **Artículos**
+
+The Statistical Analysis of fMRI Data. http://www.stat.columbia.edu/~martin/Papers/STS282.pdf
+
+Natur focus on human brain mapping: http://www.nature.com/neuro/focus/humanbrainmapping/index.html
+
+**Neuroimagen y psiquiatría**
 
 Neuroimaging in psychiatry: bringing neuroscience into clinical practice. http://bjp.rcpsych.org/content/bjprcpsych/201/1/1.full.pdf
 
@@ -68,10 +96,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2807751/pdf/fnhum-03-049.pdf
 
 The Challenges and Promise of Neuroimaging in Psychiatry
 http://www.cell.com/neuron/pdf/S0896-6273(11)01095-6.pdf
-
-**Libros**
-
-
 
 **Contacto:**
 
