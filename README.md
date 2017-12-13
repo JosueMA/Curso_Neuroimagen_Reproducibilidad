@@ -6,7 +6,7 @@
 * *Power failure: why small sample size undermines the reliability of neuroscience:* https://www.nature.com/articles/nrn3475
 * *A manifiesto for reproducible science:* https://www.nature.com/articles/s41562-016-0021.pdf
 * *Scanning the Horizon: Towards transparent and reproducible neuroimaging research:* https://www.biorxiv.org/content/biorxiv/early/2016/10/25/059188.full.pdf
-* *Best Practices in Data Analysis and Sharing in Neuroimaging using MRI:* http://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf
+* *Best Practices in Data Analysis and Sharing in Neuroimaging using MRI:* https://www.biorxiv.org/content/biorxiv/early/2016/05/20/054262.full.pdf
 
 **Sitios de interés**
 
