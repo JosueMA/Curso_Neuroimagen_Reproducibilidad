@@ -56,10 +56,6 @@
  * R:
     * https://www.datacamp.com/courses/free-introduction-to-r
 
-**Sitios de interés**
-
-
-
 ### Recursos:
 
 * Python y Neuroimagen: http://nipy.org
