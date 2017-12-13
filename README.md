@@ -63,6 +63,7 @@
 ### Recursos:
 
 * Python y Neuroimagen: http://nipy.org
+* R y Neuroimagen: https://neuroconductor.org
 * Python y paradigmas experimentales: http://www.psychopy.org
 * Máquina virtual con todo lo esencial para fMRI: http://neuro.debian.net
 
@@ -83,19 +84,20 @@
 
 **Artículos**
 
-The Statistical Analysis of fMRI Data. http://www.stat.columbia.edu/~martin/Papers/STS282.pdf
+* The Statistical Analysis of fMRI Data. http://www.stat.columbia.edu/~martin/Papers/STS282.pdf
+* Nature focus on human brain mapping: http://www.nature.com/neuro/focus/humanbrainmapping/index.html
 
-Natur focus on human brain mapping: http://www.nature.com/neuro/focus/humanbrainmapping/index.html
+*Neuroimagen y psiquiatría*
 
-**Neuroimagen y psiquiatría**
-
-Neuroimaging in psychiatry: bringing neuroscience into clinical practice. http://bjp.rcpsych.org/content/bjprcpsych/201/1/1.full.pdf
-
-Neuroimaging in psychiatry: from bench to bedside.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2807751/pdf/fnhum-03-049.pdf
-
-The Challenges and Promise of Neuroimaging in Psychiatry
+* * The Challenges and Promise of Neuroimaging in Psychiatry
 http://www.cell.com/neuron/pdf/S0896-6273(11)01095-6.pdf
+
+* Computational psychiatry as a bridge from neuroscience to clinical applications. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443409/pdf/nihms869778.pdf
+
+* Neuroimaging in psychiatry: bringing neuroscience into clinical practice. http://bjp.rcpsych.org/content/bjprcpsych/201/1/1.full.pdf
+
+* Neuroimaging in psychiatry: from bench to bedside.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2807751/pdf/fnhum-03-049.pdf
 
 **Contacto:**
 
