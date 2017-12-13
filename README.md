@@ -21,7 +21,7 @@
 
 **Bases de datos libres**
 
-* * OASIS: http://www.oasis-brains.org
+* OASIS: http://www.oasis-brains.org
 * Child Mind Institute: http://fcon_1000.projects.nitrc.org
 * Neurovault: https://neurovault.org
 * OpenfMRI: https://openfmri.org
