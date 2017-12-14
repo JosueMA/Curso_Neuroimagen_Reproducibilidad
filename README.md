@@ -41,6 +41,13 @@
 
 # Sobre fMRI
 
+## Principales programas para análisis de MRI
+
+* **FSL**:https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
+* **SPM**: http://www.fil.ion.ucl.ac.uk/spm/
+* **CONN**: https://www.nitrc.org/projects/conn
+* **AFNI**: https://afni.nimh.nih.gov
+
 **Programación**
 
 * Bash:
